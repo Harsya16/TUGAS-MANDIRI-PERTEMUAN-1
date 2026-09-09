@@ -30,3 +30,24 @@
    - 
 6. Finiteness:
 7. Effectiveness:
+
+
+# BAGIAN B #
+## ANALISIS PEMILIHAN STRUKTUR DATA ##
+1. **Skenario 1 (Fitur Fitur Undo / Redo):**
+   
+   Sebuah aplikasi pengolah kata (Text Editor) membutuhkan fitur untuk membatalkan ketikan terakhir pengguna (Undo) dan mengembalikannya lagi (Redo).
+   - Struktur Data Terpilih: **Stack**
+   - Alasan: Stack bisa dikatakan sebagai LIFO (*Last In, First Out*), artinya ketikan terakhir yang di batalkan (undo) akan menjadi ketikan pertama yang dikembalikan (redo).
+
+2. **Skenario 2 (Peta Navigasi Rute Perjalanan):**
+   
+   Sebuah aplikasi GPS membutuhkan cara untuk memodelkan lokasi-lokasi kota beserta jalan penghubungnya guna mencari rute tercepat.
+   - Struktur Data Terpilih: **Graph**
+   - Alasan: 
+   
+3. **Skenario 3 (Sistem Login Pengguna Berbasis Username):**
+   
+   Sistem butuh mencari data akun dari jutaan user secara instan berdasarkan Username saat proses login.
+   - Struktur Data Terpilih: **Queue/Array**
+   - Alasan:
