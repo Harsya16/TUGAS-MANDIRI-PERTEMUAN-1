@@ -20,3 +20,13 @@
    - Jika benar, status akun berubah menjadi aktif
 7. Sistem menampilkan keterangan "Pendaftaran Berhasil"
 8. Selesai
+
+##5 Karakteristik Utama##
+1. Input:
+   - Memasukkan alamat email dan password
+   - Memasukkan kode OTP
+3. Output:
+4. Definiteness:
+   - 
+6. Finiteness:
+7. Effectiveness:
