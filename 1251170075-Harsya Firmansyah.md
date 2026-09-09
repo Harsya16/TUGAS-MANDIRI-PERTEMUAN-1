@@ -21,7 +21,7 @@
 7. Sistem menampilkan keterangan "Pendaftaran Berhasil"
 8. Selesai
 
-##5 Karakteristik Utama##
+## 5 Karakteristik Utama ##
 1. Input:
    - Memasukkan alamat email dan password
    - Memasukkan kode OTP
